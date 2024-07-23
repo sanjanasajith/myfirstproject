@@ -158,7 +158,7 @@ form button {
     grid-column: 2 / 3;
     font-size:1.8rem;
     letter-spacing:0.6px;
-    
+    padding:30px;
 
   }
  .article{
@@ -166,6 +166,8 @@ form button {
     font-size:1.8rem;
     letter-spacing:0.6px;
     text-align:justify;
+    padding-top:50px;
+    padding:30px;
  }
 .brand {
     font-size: 10em; /* Increase the size of the "I" */
